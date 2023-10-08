@@ -1,0 +1,13 @@
+baseURL : https://example.org/
+languageCode : en-us
+title : 'My New Hugo Site'
+
+copyright : 'Futrue web design'
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: "true"
+
+params:
+  slogan : "Super First!"
